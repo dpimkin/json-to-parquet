@@ -1,0 +1,8 @@
+tests:
+  warmUpCycle: 2
+  totalCycles: 42
+  coolDown: 300ms
+
+logging:
+  level:
+    com.example.demo: INFO

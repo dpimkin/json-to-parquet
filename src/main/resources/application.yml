@@ -1,0 +1,12 @@
+spring:
+  application:
+    admin:
+      jmx-name: json-to-parquet
+  main:
+    banner-mode: off
+
+
+storage:
+  input: in
+  output: out
+
